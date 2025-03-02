@@ -47,7 +47,7 @@ HoldRodCastDuration := 480
 WaitForBobberDelay := 1000
 
 ; Set this to your navigation key, IMPORTANT
-NavigationKey := "\"
+NavigationKey := "#"
 
 ;     SHAKE SETTINGS     ====================================================================================================;
 
